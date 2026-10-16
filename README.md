@@ -4,7 +4,7 @@ I'm a Computer Science and IoT graduate focused on building AI-powered applicati
 
 📍 Hyderabad, India
 🔗 [LinkedIn](https://www.linkedin.com/in/abdulrahmandev22)
-📧 [Email](mailto:abdulrahmandev22@gmail.com)
+📧 email: abdulrahmandev22@gmail.com
 
 ## Featured Projects
 
