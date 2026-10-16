@@ -2,9 +2,9 @@
 
 I'm a Computer Science and IoT graduate focused on building AI-powered applications, LLM workflows, and agentic systems—with an interest in secure application design.
 
-📍 Hyderabad, India
-🔗 [LinkedIn](https://www.linkedin.com/in/abdulrahmandev22)
-📧 email: abdulrahmandev22@gmail.com
+📍 Hyderabad, India  
+🔗 [LinkedIn](https://www.linkedin.com/in/abdul-rahman-221128258)  
+📧 [Email](mailto:nextomate22@gmail.com)
 
 ## Featured Projects
 
@@ -37,18 +37,3 @@ An experimental Python prototype exploring asynchronous task orchestration, type
 - [Oracle Agentic AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D5F89B27F403077F3625D83FB1F6940A54DA55BFD8CFD0B1586F8D0AC7580E58)
 
 I'm continuing to improve my projects through better testing, evaluation, security, and developer documentation.
-
-<!--
-**Xatreus/Xatreus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
