@@ -1,8 +1,8 @@
-# Hi, I'm Abdul Rahman 👋
+ Hi, I'm Abdul Rahman 
 
 I'm a Computer Science and IoT graduate focused on building AI-powered applications, LLM workflows, and agentic systems—with an interest in secure application design.
 
-📍 Hyderabad, India  
+ Hyderabad, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/abdul-rahman-221128258)  
 📧 [Email](mailto:nextomate22@gmail.com)
 
