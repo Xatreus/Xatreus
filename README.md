@@ -5,7 +5,7 @@
 I build Python-based AI applications and explore how to make LLM-powered systems more useful, testable, and secure. My current focus is backend engineering for AI products: API design, retrieval-augmented generation (RAG), tool calling, evaluation, and security regression testing.
 
 📍 Hyderabad, India  
-🔗 [LinkedIn](https://www.linkedin.com/in/abdul-rahman-221128258) · 📧 [Email](mailto:nextomate22@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/abdul-rahman-221128258) · 📧 email: abdulrahmandev22@gmail.com
 
 ---
 
