@@ -1,4 +1,4 @@
-# Hi, I'm Abdul Rahman 👋
+# Hi, I'm Abdul Rahman 
 
 **Computer Science & IoT graduate | GenAI Engineering · AI Agents · AI Security**
 
