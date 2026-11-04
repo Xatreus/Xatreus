@@ -1,7 +1,7 @@
 <!-- Abdul Rahman | GitHub Profile README -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2800&pause=850&color=58A6FF&center=true&vCenter=true&width=900&lines=Engineering+AI+systems+with+purpose.;GenAI+%7C+Agentic+AI+%7C+AI+Reliability;Python+Backend+%7C+RAG+%7C+AI+Security" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2800&pause=850&color=58A6FF&center=true&vCenter=true&width=900&lines=Engineering+AI+systems+with+purpose.;GenAI+%7C+Backend+Engineering+%7C+DevOps;Cloud+%7C+CI%2FCD+%7C+Infrastructure+as+Code" alt="Animated introduction" />
 
   <h1>Abdul Rahman</h1>
   <h3>AI & Backend Engineer · DevOps & Cloud Enthusiast</h3>
@@ -198,7 +198,7 @@ A learning archive covering Python fundamentals and small data-oriented exercise
 
 **Languages & Backend**
 
-<img src="https://skillicons.dev/icons?i=python,typescript,postgres,sqlite,docker,kubernetes,terraform,aws,azure,linux,git,githubactions,vscode" alt="Technology icons" />
+<img src="https://skillicons.dev/icons?i=python,typescript,fastapi,postgres,docker,kubernetes,terraform,aws,azure,linux,git,githubactions,vscode" alt="Technology icons" />
 
 **AI · Data · Quality**
 
