@@ -9,7 +9,6 @@
   <p>
     <a href="https://github.com/Xatreus"><img src="https://img.shields.io/badge/GitHub-Xatreus-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
     <a href="https://www.linkedin.com/in/abdul-rahman-221128258"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" /></a>
-    <img src="https://komarev.com/ghpvc/?username=Xatreus&style=for-the-badge&color=blueviolet" alt="Profile views" />
   </p>
 
   <p><b>Computer Science & IoT Graduate</b> · Hyderabad, India</p>
