@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2800&pause=850&color=58A6FF&center=true&vCenter=true&width=900&lines=Engineering+AI+systems+with+purpose.;GenAI+%7C+Backend+Engineering+%7C+DevOps;Cloud+%7C+CI%2FCD+%7C+Infrastructure+as+Code" alt="Animated introduction" />
 
   <h1>Abdul Rahman</h1>
-  <h3>AI & Backend Engineer · DevOps & Cloud Enthusiast</h3>
+  <h3>AI Engineer · Generative AI & AI Agents · DevOps & Cloud Engineering</h3>
 
   <p>
     <a href="https://github.com/Xatreus"><img src="https://img.shields.io/badge/GitHub-Xatreus-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
