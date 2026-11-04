@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2800&pause=850&color=58A6FF&center=true&vCenter=true&width=900&lines=Engineering+AI+systems+with+purpose.;GenAI+%7C+Agentic+AI+%7C+AI+Reliability;Python+Backend+%7C+RAG+%7C+AI+Security" alt="Animated introduction" />
 
   <h1>Abdul Rahman</h1>
-  <h3>GenAI Engineer in Progress · AI Agent Developer · AI Security Enthusiast</h3>
+  <h3>AI & Backend Engineer · DevOps & Cloud Enthusiast</h3>
 
   <p>
     <a href="https://github.com/Xatreus"><img src="https://img.shields.io/badge/GitHub-Xatreus-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
@@ -13,14 +13,14 @@
   </p>
 
   <p><b>Computer Science & IoT Graduate</b> · Hyderabad, India</p>
-  <p><i>Building practical AI applications with an emphasis on reliable engineering, measurable behavior and security.</i></p>
+  <p><i>Building AI-powered applications and backend systems, while developing practical skills in DevOps, cloud infrastructure and automation.</i></p>
 </div>
 
 ---
 
 ## 🧑‍💻 Profile Overview
 
-I'm focused on the engineering behind useful AI products: designing backend services, connecting models to tools and data, evaluating system behavior, and understanding how AI applications fail.
+I'm interested in building and operating reliable software: from Python backend services and AI-powered applications to CI/CD pipelines, cloud infrastructure, containers and observability.
 
 My work and learning currently center on four areas:
 
@@ -28,8 +28,9 @@ My work and learning currently center on four areas:
 |---|---|
 | **Generative AI** | LLM integration, RAG, embeddings, hybrid retrieval and grounded responses |
 | **Agentic systems** | Tool calling, task orchestration, typed interfaces and bounded agent workflows |
-| **AI reliability & security** | Evaluation suites, regression tests, prompt-injection probes and observability |
-| **Backend engineering** | Python, FastAPI, REST APIs, persistence, testing and system design |
+| **Backend engineering** | Python, FastAPI, REST APIs, async programming, persistence and system design |
+| **DevOps & Cloud** | Linux, Docker, CI/CD, GitHub Actions, Kubernetes, Terraform, AWS and Azure |
+| **Reliability & Security** | OpenTelemetry, monitoring, SLOs, testing, API security and application guardrails |
 
 I value clear architecture, reproducible tests, explicit limitations and software that can be run and inspected by other developers.
 
@@ -56,7 +57,7 @@ flowchart LR
 ## 🚀 Selected Projects
 
 <div align="center">
-  <h3>AI Engineering · Agent Systems · Reliability · Applied Security</h3>
+  <h3>AI Engineering · Backend Systems · DevOps · Cloud & Reliability</h3>
   <p>Explore the repositories below for implementation details, setup instructions, architecture and current limitations.</p>
 </div>
 
@@ -197,7 +198,7 @@ A learning archive covering Python fundamentals and small data-oriented exercise
 
 **Languages & Backend**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,docker,linux,git,github,vscode" alt="Technology icons" />
+<img src="https://skillicons.dev/icons?i=python,typescript,postgres,sqlite,docker,kubernetes,terraform,aws,azure,linux,git,githubactions,vscode" alt="Technology icons" />
 
 **AI · Data · Quality**
 
@@ -214,11 +215,12 @@ A learning archive covering Python fundamentals and small data-oriented exercise
 | **Languages** | Python, SQL, TypeScript (SDK development) |
 | **AI / GenAI** | LLM APIs, RAG, embeddings, vector search, hybrid retrieval, tool/function calling |
 | **Agent engineering** | Agent workflows, adapters, orchestration, bounded tool use, evaluation |
-| **Backend** | FastAPI, REST APIs, Pydantic, SQLAlchemy, Uvicorn |
+| **Backend** | FastAPI, REST APIs, Pydantic, SQLAlchemy, Uvicorn, asynchronous programming, microservices |
 | **Data & storage** | PostgreSQL, SQLite, pgvector, ChromaDB |
-| **Quality & reliability** | pytest, Ruff, regression testing, OpenTelemetry, SLOs |
-| **Security** | Prompt-injection testing, API security, threat modeling, web application security |
-| **Developer tooling** | Git, GitHub Actions, Docker, Linux, VS Code |
+| **DevOps & Cloud** | Linux, Docker, Docker Compose, GitHub Actions, CI/CD, Kubernetes, Terraform, AWS, Azure, cloud-native deployment, infrastructure as code |
+| **MLOps & Observability** | LLMOps, Langfuse (foundational), OpenTelemetry, monitoring, SLOs, model/agent evaluation |
+| **Testing & Security** | pytest, Ruff, API/integration testing, secrets management, API security, OWASP concepts |
+| **Developer tooling** | Git, GitHub, VS Code, async Python, HTTPX |
 
 <sub>This stack spans hands-on implementation, project-specific use and ongoing learning; not every technology is used in every repository.</sub>
 
@@ -226,7 +228,7 @@ A learning archive covering Python fundamentals and small data-oriented exercise
 
 ## 🔐 Security Knowledge & Practice
 
-I have studied and practiced common web, API and AI application security topics through hands-on labs and project work.
+I have studied common web, API and AI application security topics through hands-on labs and project work. Security is one part of my broader engineering toolkit.
 
 <details>
 <summary><b>Explore security areas</b></summary>
@@ -259,9 +261,6 @@ I have studied and practiced common web, API and AI application security topics 
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Xatreus&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xatreus&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=Xatreus&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
@@ -269,10 +268,10 @@ I have studied and practiced common web, API and AI application security topics 
 
 ## 🎯 What I'm Exploring Next
 
-- More reliable agent execution: typed tools, explicit permissions, retries and bounded workflows.
-- Better RAG systems: retrieval quality, citations, evaluation datasets and observability.
-- AI security engineering: threat modeling, adversarial test cases and repeatable regression suites.
-- Production-minded software design: architecture, deployment, monitoring and maintainability.
+- Building dependable CI/CD workflows with GitHub Actions and automated quality gates.
+- Deepening practical Kubernetes, Terraform, AWS and Azure deployment skills.
+- Improving observability, monitoring, SLOs and production troubleshooting.
+- Continuing to build AI applications, agent workflows and retrieval systems with strong backend foundations.
 
 ## 🤝 Connect
 
@@ -280,5 +279,5 @@ I have studied and practiced common web, API and AI application security topics 
   <a href="https://www.linkedin.com/in/abdul-rahman-221128258"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" /></a>
   <a href="https://github.com/Xatreus"><img src="https://img.shields.io/badge/GitHub-Follow_my_work-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" /></a>
   <br/><br/>
-  <i>Build thoughtfully. Measure what matters. Secure by design.</i>
+  <i>Build reliable systems. Automate delivery. Keep learning.</i>
 </div>
