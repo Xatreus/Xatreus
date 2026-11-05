@@ -7,6 +7,7 @@
   <h3>AI Engineer · Generative AI & AI Agents · DevOps & Cloud Engineering</h3>
 
   <p>
+    <a href="https://xatreus.github.io/abdul-rahman-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Explore_my_work-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal portfolio" /></a>
     <a href="https://github.com/Xatreus"><img src="https://img.shields.io/badge/GitHub-Xatreus-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
     <a href="https://www.linkedin.com/in/abdul-rahman-221128258"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" /></a>
   </p>
@@ -19,19 +20,11 @@
 
 ## 🧑‍💻 Profile Overview
 
-I'm interested in building and operating reliable software: from Python backend services and AI-powered applications to CI/CD pipelines, cloud infrastructure, containers and observability.
+I'm interested in building reliable software across **Generative AI, agentic systems, Python backend engineering, DevOps and cloud infrastructure**.
 
-My work and learning currently center on four areas:
+I value clear architecture, reproducible tests, practical engineering and software that other developers can run and inspect.
 
-| Focus | What I'm building knowledge in |
-|---|---|
-| **Generative AI** | LLM integration, RAG, embeddings, hybrid retrieval and grounded responses |
-| **Agentic systems** | Tool calling, task orchestration, typed interfaces and bounded agent workflows |
-| **Backend engineering** | Python, FastAPI, REST APIs, async programming, persistence and system design |
-| **DevOps & Cloud** | Linux, Docker, CI/CD, GitHub Actions, Kubernetes, Terraform, AWS and Azure |
-| **Reliability & Security** | OpenTelemetry, monitoring, SLOs, testing, API security and application guardrails |
-
-I value clear architecture, reproducible tests, explicit limitations and software that can be run and inspected by other developers.
+**Want the full picture?** My <a href="https://xatreus.github.io/abdul-rahman-portfolio/">portfolio website</a> brings together project walkthroughs, technical skills, certifications and current work.
 
 ## 🧭 Engineering Map
 
@@ -57,189 +50,102 @@ flowchart LR
 
 <div align="center">
   <h3>AI Engineering · Backend Systems · DevOps · Cloud & Reliability</h3>
-  <p>Explore the repositories below for implementation details, setup instructions, architecture and current limitations.</p>
+  <p>These are selected portfolio projects. Visit my <a href="https://xatreus.github.io/abdul-rahman-portfolio/">website for project details, skills and the broader portfolio</a>.</p>
 </div>
 
 ### 01 · <a href="https://github.com/Xatreus/cognis">Cognis</a>
 **AI Agent Evaluation & Security Regression Platform**
 
+A platform for running repeatable quality and security evaluations against AI models and agent endpoints, inspecting failures and comparing measurable results.
+
 <a href="https://github.com/Xatreus/cognis"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-Cognis-7C3AED?style=for-the-badge&logo=github" alt="View Cognis" /></a>
 
-Connect an AI model or agent endpoint, run repeatable quality and security cases, inspect individual failures and compare measurable results.
-
-- Deterministic evaluation cases with assertions, pass rates and latency metrics.
-- Baseline prompt-injection and response-level security regression probes.
-- Adapters for compatible model APIs and existing HTTP-agent endpoints.
-- JSON and Markdown reports, FastAPI API and local dashboard.
-- SQLite evaluation history with optional PostgreSQL configuration.
-
-**Core engineering:** evaluation design · adapters · API contracts · regression testing · reproducibility
-
-<sub>Active portfolio project. It provides regression signals, not a security guarantee or certification; coverage and deployment hardening remain ongoing.</sub>
-
----
+<sub>Active portfolio project. Provides regression signals, not a security guarantee or certification.</sub>
 
 ### 02 · <a href="https://github.com/Xatreus/Aetheris">Aetheris</a>
 **AI Production Reliability & Observability Platform**
 
-<a href="https://github.com/Xatreus/Aetheris"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-Aetheris-0D9488?style=for-the-badge&logo=github" alt="View Aetheris" /></a>
-
 An early-stage reliability engineering platform combining an application-side TypeScript OpenTelemetry SDK with a Python control plane.
 
-- TypeScript SDK for application telemetry, traces and metrics over OTLP/HTTP.
-- FastAPI control plane with typed reliability events and deterministic policies.
-- Release evaluation gates with pass / warn / block outcomes.
-- Evidence-preserving incident investigation reports and SLO / error-budget evaluation.
-- PostgreSQL persistence path with SQLite as the local test default.
-- Docker Compose, Kubernetes and Terraform deployment scaffolding.
+<a href="https://github.com/Xatreus/Aetheris"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-Aetheris-0D9488?style=for-the-badge&logo=github" alt="View Aetheris" /></a>
 
-**Core engineering:** OpenTelemetry · TypeScript SDKs · FastAPI · reliability policies · SLOs · platform engineering
-
-<sub>Development baseline, not production-ready. Cloud manifests are starter scaffolding and have not been validated in a live cloud account.</sub>
-
----
+<sub>Development baseline, not production-ready. Cloud manifests are starter scaffolding.</sub>
 
 ### 03 · <a href="https://github.com/Xatreus/NexPilot">NexPilot</a>
 **AI Software Engineering & DevOps Assistant**
 
+An engineering copilot prototype for structured software task planning and read-only analysis of public GitHub repositories.
+
 <a href="https://github.com/Xatreus/NexPilot"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-NexPilot-2563EB?style=for-the-badge&logo=github" alt="View NexPilot" /></a>
 
-An engineering copilot prototype that turns software tasks into structured plans and inspects the delivery foundations of public GitHub repositories.
-
-- Task planning across inspect, design, implement, test and deliver stages.
-- Optional OpenRouter-compatible model assistance with deterministic fallback.
-- Read-only repository intelligence for docs, tests, CI, dependencies and deployment signals.
-- FastAPI backend, responsive dashboard and CLI.
-- SQLAlchemy + SQLite activity history and Pydantic contracts.
-
-**Core engineering:** AI-assisted planning · GitHub API integration · FastAPI · async HTTP · CLI · typed contracts
-
-<sub>Early prototype. Repository checks inspect metadata and file-tree signals; they do not prove code quality, test success or deployment health. Autonomous code editing and deployment actions are not implemented.</sub>
-
----
+<sub>Early prototype. Repository analysis uses metadata and file-tree signals; autonomous code editing and deployment are not implemented.</sub>
 
 ### 04 · <a href="https://github.com/Xatreus/report-explainer">Report Explainer</a>
 **Local-First Document Intelligence & RAG Workspace**
 
+A document workspace for PDF and TXT ingestion, evidence retrieval, source-grounded Q&A, report comparison and citations.
+
 <a href="https://github.com/Xatreus/report-explainer"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-Report_Explainer-D97706?style=for-the-badge&logo=github" alt="View Report Explainer" /></a>
 
-A document workspace for exploring PDF and TXT reports, retrieving evidence, comparing findings and asking questions about source material.
-
-- PDF/TXT ingestion with page-aware chunking and optional OCR.
-- Hybrid retrieval combining local semantic embeddings and lexical search.
-- Evidence-grounded Q&A with source passages and page-aware citations.
-- Multi-report comparison, extracted metrics, entities and risk dashboards.
-- Bounded read-only report analyst workflow.
-- Streamlit UI with SQLite by default; optional PostgreSQL + pgvector and Redis/RQ paths.
-- Provider-agnostic model selection through an OpenAI-compatible API configuration.
-
-**Core engineering:** RAG · hybrid search · document processing · citations · retrieval evaluation · agent workflows
-
-<sub>Local-first portfolio application. External model calls are optional; review provider data policies before processing confidential documents.</sub>
-
----
+<sub>Local-first portfolio application. Review provider data policies before processing confidential documents.</sub>
 
 ### 05 · <a href="https://github.com/Xatreus/lead-reviver-">Lead Reviver</a>
 **Evidence-Aware AI Lead Management & Follow-Up Assistant**
 
+An AI-assisted workspace for prioritizing inactive leads and preparing context-aware follow-up drafts for human review.
+
 <a href="https://github.com/Xatreus/lead-reviver-"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-Lead_Reviver-0891B2?style=for-the-badge&logo=github" alt="View Lead Reviver" /></a>
 
-An AI-assisted workspace that helps sales teams prioritize inactive leads and prepare context-aware follow-up drafts for human review.
-
-- Lead management, search, status filtering and CSV import/export.
-- Explainable heuristic revival scoring based on recency, due dates, deal value and pipeline stage.
-- Gemini-powered email, SMS and LinkedIn draft generation with configurable tone and goal.
-- RAG knowledge base for approved product information and sales playbooks.
-- PostgreSQL + pgvector semantic retrieval, with SQLite local-development fallback.
-- Consent guardrails prevent draft generation for opted-out and do-not-contact leads.
-
-**Core engineering:** FastAPI · PostgreSQL · pgvector · RAG · embeddings · human-in-the-loop AI
-
 <sub>Drafts are saved for human review and are never sent automatically. Authentication, tenant isolation and production hardening remain outstanding.</sub>
-
----
 
 ### 06 · <a href="https://github.com/Xatreus/invoice-buddy">Invoice Buddy</a>
 **AI-Powered Invoice Intelligence API**
 
+A Python API for extracting structured information from PDF invoices and answering questions about invoice records using database queries and retrieval.
+
 <a href="https://github.com/Xatreus/invoice-buddy"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-Invoice_Buddy-16A34A?style=for-the-badge&logo=github" alt="View Invoice Buddy" /></a>
-
-A Python API that extracts structured information from PDF invoices and answers questions about invoice records using database queries and retrieval.
-
-- PDF invoice ingestion and LLM-based extraction of invoice fields and line items.
-- Structured persistence and filtering with SQLAlchemy and SQLite.
-- Tool-calling agent for invoice questions rather than relying on model-generated financial facts.
-- Invoice lookup, spending summaries, vendor history and overdue-invoice queries.
-- RAG over invoice-document content and API endpoints for application workflows.
-
-**Core engineering:** Python · FastAPI · SQLAlchemy · LLM extraction · RAG · tool calling
 
 <sub>Designed for local use and portfolio demonstration. Do not use sensitive production financial data without a security and privacy review.</sub>
 
----
-
-## 📚 Learning Repository
-
-### <a href="https://github.com/Xatreus/python-for-ai">Python for AI</a>
-**Python Learning Notes & Mini Projects**
-
-A learning archive covering Python fundamentals and small data-oriented exercises, including weather-data analysis with pandas and CSV-based sales calculations.
+### 📚 <a href="https://github.com/Xatreus/python-for-ai">Python for AI</a>
+A learning archive of Python fundamentals and small data-oriented exercises.
 
 <a href="https://github.com/Xatreus/python-for-ai"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-Python_for_AI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="View Python for AI" /></a>
 
-<sub>This is a learning repository rather than a polished application; some practice files are intentionally exploratory or incomplete.</sub>
-
 ---
 
-## 🧰 Technology Stack
+## 🧰 Technologies I Work With
 
 <div align="center">
 
-**Languages & Backend**
-
 <img src="https://skillicons.dev/icons?i=python,typescript,fastapi,postgres,docker,kubernetes,terraform,aws,azure,linux,git,githubactions,vscode" alt="Technology icons" />
 
-**AI · Data · Quality**
-
-<img src="https://img.shields.io/badge/LLM_APIs-Model_Integration-6D5BD0?style=for-the-badge" alt="LLM APIs" />
-<img src="https://img.shields.io/badge/RAG-Hybrid_Retrieval-0F766E?style=for-the-badge" alt="RAG" />
-<img src="https://img.shields.io/badge/AI_Agents-Tool_Calling-2563EB?style=for-the-badge" alt="AI agents" />
-<img src="https://img.shields.io/badge/Testing-pytest-0A9EDC?style=for-the-badge" alt="pytest" />
-<img src="https://img.shields.io/badge/Observability-OpenTelemetry-7C3AED?style=for-the-badge" alt="OpenTelemetry" />
+<img src="https://img.shields.io/badge/Generative_AI-LLMs_%26_RAG-6D5BD0?style=for-the-badge" alt="Generative AI" />
+<img src="https://img.shields.io/badge/Agentic_AI-Tools_%26_Workflows-2563EB?style=for-the-badge" alt="Agentic AI" />
+<img src="https://img.shields.io/badge/Backend-APIs_%26_Systems-0F766E?style=for-the-badge" alt="Backend engineering" />
+<img src="https://img.shields.io/badge/DevOps-Cloud_%26_CI%2FCD-D97706?style=for-the-badge" alt="DevOps" />
 
 </div>
 
-| Area | Technologies & concepts |
-|---|---|
-| **Languages** | Python, SQL, TypeScript (SDK development) |
-| **AI / GenAI** | LLM APIs, RAG, embeddings, vector search, hybrid retrieval, tool/function calling |
-| **Agent engineering** | Agent workflows, adapters, orchestration, bounded tool use, evaluation |
-| **Backend** | FastAPI, REST APIs, Pydantic, SQLAlchemy, Uvicorn, asynchronous programming, microservices |
-| **Data & storage** | PostgreSQL, SQLite, pgvector, ChromaDB |
-| **DevOps & Cloud** | Linux, Docker, Docker Compose, GitHub Actions, CI/CD, Kubernetes, Terraform, AWS, Azure, cloud-native deployment, infrastructure as code |
-| **MLOps & Observability** | LLMOps, Langfuse (foundational), OpenTelemetry, monitoring, SLOs, model/agent evaluation |
-| **Testing & Security** | pytest, Ruff, API/integration testing, secrets management, API security, OWASP concepts |
-| **Developer tooling** | Git, GitHub, VS Code, async Python, HTTPX |
+<sub>My portfolio website contains the expanded skills list, technical areas and project-by-project context. Technologies span hands-on implementation, project-specific use and ongoing learning; not every technology is used in every repository.</sub>
 
-<sub>This stack spans hands-on implementation, project-specific use and ongoing learning; not every technology is used in every repository.</sub>
+<a href="https://xatreus.github.io/abdul-rahman-portfolio/"><img src="https://img.shields.io/badge/EXPLORE_FULL_SKILLS_%26_PROJECTS-Visit_Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore full skills and projects" /></a>
 
 ---
 
 ## 🔐 Security Knowledge & Practice
 
-I have studied common web, API and AI application security topics through hands-on labs and project work. Security is one part of my broader engineering toolkit.
+I have studied web, API and AI application security through hands-on labs and project work.
 
 <details>
 <summary><b>Explore security areas</b></summary>
 
-| Category | Topics explored |
-|---|---|
-| **Injection** | SQL injection, OS command injection, server-side template injection (SSTI) |
-| **Browser security** | Reflected XSS, DOM-based XSS |
-| **Access control** | IDOR, authentication and authorization weaknesses |
-| **Server-side** | SSRF, path traversal, file-upload vulnerabilities |
-| **API security** | API testing, input validation, access control and OWASP API Security concepts |
-| **AI security** | Prompt injection, tool misuse, LLM application attack surfaces and security regression testing |
+- Web vulnerabilities: SQL injection, XSS, SSTI, IDOR and path traversal.
+- Server-side and API security: SSRF, OS command injection, file-upload vulnerabilities and API testing.
+- AI application security: prompt injection, tool misuse and LLM application attack surfaces.
+- Security foundations: authentication, authorization, input validation and OWASP concepts.
+
+For more detail on my technical skills and practical work, see the <a href="https://xatreus.github.io/abdul-rahman-portfolio/">portfolio website</a>.
 
 </details>
 
@@ -267,14 +173,15 @@ I have studied common web, API and AI application security topics through hands-
 
 ## 🎯 What I'm Exploring Next
 
-- Building dependable CI/CD workflows with GitHub Actions and automated quality gates.
-- Deepening practical Kubernetes, Terraform, AWS and Azure deployment skills.
-- Improving observability, monitoring, SLOs and production troubleshooting.
-- Continuing to build AI applications, agent workflows and retrieval systems with strong backend foundations.
+- Building dependable CI/CD workflows and automated quality gates.
+- Deepening practical Kubernetes, Terraform and cloud deployment skills.
+- Improving observability, monitoring and production troubleshooting.
+- Building AI applications and agent workflows on strong backend foundations.
 
 ## 🤝 Connect
 
 <div align="center">
+  <a href="https://xatreus.github.io/abdul-rahman-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Explore_my_work-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a>
   <a href="https://www.linkedin.com/in/abdul-rahman-221128258"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" /></a>
   <a href="https://github.com/Xatreus"><img src="https://img.shields.io/badge/GitHub-Follow_my_work-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" /></a>
   <br/><br/>
