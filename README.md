@@ -7,24 +7,21 @@
   <h3>AI Engineer · Generative AI & AI Agents · DevOps & Cloud Engineering</h3>
 
   <p>
-    <a href="https://xatreus.github.io/abdul-rahman-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Explore_my_work-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal portfolio" /></a>
     <a href="https://github.com/Xatreus"><img src="https://img.shields.io/badge/GitHub-Xatreus-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
     <a href="https://www.linkedin.com/in/abdul-rahman-221128258"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" /></a>
   </p>
 
   <p><b>Computer Science & IoT Graduate</b> · Hyderabad, India</p>
-  <p><i>Building AI-powered applications and backend systems, while developing practical skills in DevOps, cloud infrastructure and automation.</i></p>
+  <p><i>Building AI-powered applications and backend systems, with a focus on reliable engineering, automation and cloud technologies.</i></p>
 </div>
 
 ---
 
-## 🧑‍💻 Profile Overview
+## 🧑‍💻 About Me
 
-I'm interested in building reliable software across **Generative AI, agentic systems, Python backend engineering, DevOps and cloud infrastructure**.
+I'm interested in building useful, reliable software across **Generative AI, agentic systems, Python backend engineering, DevOps and cloud infrastructure**.
 
-I value clear architecture, reproducible tests, practical engineering and software that other developers can run and inspect.
-
-**Want the full picture?** My <a href="https://xatreus.github.io/abdul-rahman-portfolio/">portfolio website</a> brings together project walkthroughs, technical skills, certifications and current work.
+I enjoy turning ideas into working applications, designing clear system architecture and continuously improving the quality, security and reliability of what I build.
 
 ## 🧭 Engineering Map
 
@@ -42,79 +39,64 @@ flowchart LR
     H -.-> F
 ```
 
-<sub>A conceptual map of the engineering areas I explore. Individual repositories implement different subsets of this architecture.</sub>
+<sub>A conceptual view of the engineering areas I explore. Each project implements a different part of this picture.</sub>
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Featured Projects
 
-<div align="center">
-  <h3>AI Engineering · Backend Systems · DevOps · Cloud & Reliability</h3>
-  <p>These are selected portfolio projects. Visit my <a href="https://xatreus.github.io/abdul-rahman-portfolio/">website for project details, skills and the broader portfolio</a>.</p>
-</div>
-
-### 01 · <a href="https://github.com/Xatreus/cognis">Cognis</a>
-**AI Agent Evaluation & Security Regression Platform**
-
-A platform for running repeatable quality and security evaluations against AI models and agent endpoints, inspecting failures and comparing measurable results.
-
-<a href="https://github.com/Xatreus/cognis"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-Cognis-7C3AED?style=for-the-badge&logo=github" alt="View Cognis" /></a>
-
-<sub>Active portfolio project. Provides regression signals, not a security guarantee or certification.</sub>
-
-### 02 · <a href="https://github.com/Xatreus/Aetheris">Aetheris</a>
+### 01 · <a href="https://github.com/Xatreus/Aetheris">Aetheris</a>
 **AI Production Reliability & Observability Platform**
 
-An early-stage reliability engineering platform combining an application-side TypeScript OpenTelemetry SDK with a Python control plane.
+Aetheris explores how to make AI-powered applications more observable and reliable. It combines an application-side **TypeScript OpenTelemetry SDK** with a **Python control plane** to collect signals, evaluate reliability policies and support incident investigation.
 
-<a href="https://github.com/Xatreus/Aetheris"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-Aetheris-0D9488?style=for-the-badge&logo=github" alt="View Aetheris" /></a>
+- TypeScript SDK for application telemetry, traces and metrics over OTLP/HTTP.
+- FastAPI control plane with typed reliability events and deterministic policies.
+- Release evaluation gates with pass, warn and block outcomes.
+- Evidence-preserving incident reports and SLO / error-budget evaluation.
+- PostgreSQL persistence path with SQLite as the local test default.
+- Docker Compose, Kubernetes and Terraform deployment scaffolding.
 
-<sub>Development baseline, not production-ready. Cloud manifests are starter scaffolding.</sub>
+**Engineering focus:** OpenTelemetry · TypeScript · FastAPI · reliability policies · SLOs · platform engineering
 
-### 03 · <a href="https://github.com/Xatreus/NexPilot">NexPilot</a>
-**AI Software Engineering & DevOps Assistant**
+<a href="https://github.com/Xatreus/Aetheris"><img src="https://img.shields.io/badge/EXPLORE_AETHERIS-View_Repository-0D9488?style=for-the-badge&logo=github" alt="Explore Aetheris repository" /></a>
 
-An engineering copilot prototype for structured software task planning and read-only analysis of public GitHub repositories.
-
-<a href="https://github.com/Xatreus/NexPilot"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-NexPilot-2563EB?style=for-the-badge&logo=github" alt="View NexPilot" /></a>
-
-<sub>Early prototype. Repository analysis uses metadata and file-tree signals; autonomous code editing and deployment are not implemented.</sub>
-
-### 04 · <a href="https://github.com/Xatreus/report-explainer">Report Explainer</a>
-**Local-First Document Intelligence & RAG Workspace**
-
-A document workspace for PDF and TXT ingestion, evidence retrieval, source-grounded Q&A, report comparison and citations.
-
-<a href="https://github.com/Xatreus/report-explainer"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-Report_Explainer-D97706?style=for-the-badge&logo=github" alt="View Report Explainer" /></a>
-
-<sub>Local-first portfolio application. Review provider data policies before processing confidential documents.</sub>
-
-### 05 · <a href="https://github.com/Xatreus/lead-reviver-">Lead Reviver</a>
-**Evidence-Aware AI Lead Management & Follow-Up Assistant**
-
-An AI-assisted workspace for prioritizing inactive leads and preparing context-aware follow-up drafts for human review.
-
-<a href="https://github.com/Xatreus/lead-reviver-"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-Lead_Reviver-0891B2?style=for-the-badge&logo=github" alt="View Lead Reviver" /></a>
-
-<sub>Drafts are saved for human review and are never sent automatically. Authentication, tenant isolation and production hardening remain outstanding.</sub>
-
-### 06 · <a href="https://github.com/Xatreus/invoice-buddy">Invoice Buddy</a>
-**AI-Powered Invoice Intelligence API**
-
-A Python API for extracting structured information from PDF invoices and answering questions about invoice records using database queries and retrieval.
-
-<a href="https://github.com/Xatreus/invoice-buddy"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-Invoice_Buddy-16A34A?style=for-the-badge&logo=github" alt="View Invoice Buddy" /></a>
-
-<sub>Designed for local use and portfolio demonstration. Do not use sensitive production financial data without a security and privacy review.</sub>
-
-### 📚 <a href="https://github.com/Xatreus/python-for-ai">Python for AI</a>
-A learning archive of Python fundamentals and small data-oriented exercises.
-
-<a href="https://github.com/Xatreus/python-for-ai"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-Python_for_AI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="View Python for AI" /></a>
+<sub>Development baseline, not production-ready. Cloud manifests are starter scaffolding and have not been validated in a live cloud account.</sub>
 
 ---
 
-## 🧰 Technologies I Work With
+### 02 · <a href="https://github.com/Xatreus/cognis">Cognis</a>
+**AI Agent Evaluation & Security Regression Platform**
+
+Cognis helps developers test AI models and agent endpoints through repeatable evaluation cases. It makes it easier to inspect failures, measure behavior and track quality and security regressions as systems change.
+
+- Deterministic evaluation cases with assertions, pass rates and latency metrics.
+- Baseline prompt-injection and response-level security regression probes.
+- Adapters for compatible model APIs and existing HTTP-agent endpoints.
+- JSON and Markdown reports, FastAPI API and local dashboard.
+- SQLite evaluation history with optional PostgreSQL configuration.
+
+**Engineering focus:** AI evaluation · security testing · adapters · API contracts · regression testing · reproducibility
+
+<a href="https://github.com/Xatreus/cognis"><img src="https://img.shields.io/badge/EXPLORE_COGNIS-View_Repository-7C3AED?style=for-the-badge&logo=github" alt="Explore Cognis repository" /></a>
+
+<sub>Active portfolio project. It provides useful regression signals, not a security guarantee or certification; coverage and deployment hardening remain ongoing.</sub>
+
+---
+
+<div align="center">
+
+### Want to explore more?
+
+I've built other projects across AI applications, RAG, backend development and automation. **Visit my <a href="https://xatreus.github.io/abdul-rahman-portfolio/">portfolio website</a> to discover more of my work and explore my broader technical skill set.**
+
+<a href="https://xatreus.github.io/abdul-rahman-portfolio/"><img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-Explore_More_Projects-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio website" /></a>
+
+</div>
+
+---
+
+## 🧰 Technologies
 
 <div align="center">
 
@@ -127,25 +109,21 @@ A learning archive of Python fundamentals and small data-oriented exercises.
 
 </div>
 
-<sub>My portfolio website contains the expanded skills list, technical areas and project-by-project context. Technologies span hands-on implementation, project-specific use and ongoing learning; not every technology is used in every repository.</sub>
-
-<a href="https://xatreus.github.io/abdul-rahman-portfolio/"><img src="https://img.shields.io/badge/EXPLORE_FULL_SKILLS_%26_PROJECTS-Visit_Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore full skills and projects" /></a>
+<sub>These represent technologies used across my projects and areas of ongoing learning; not every tool is used in every repository.</sub>
 
 ---
 
-## 🔐 Security Knowledge & Practice
+## 🔐 Security Knowledge
 
-I have studied web, API and AI application security through hands-on labs and project work.
+I have explored web, API and AI application security through hands-on labs and project work.
 
 <details>
-<summary><b>Explore security areas</b></summary>
+<summary><b>View security topics</b></summary>
 
-- Web vulnerabilities: SQL injection, XSS, SSTI, IDOR and path traversal.
-- Server-side and API security: SSRF, OS command injection, file-upload vulnerabilities and API testing.
-- AI application security: prompt injection, tool misuse and LLM application attack surfaces.
-- Security foundations: authentication, authorization, input validation and OWASP concepts.
-
-For more detail on my technical skills and practical work, see the <a href="https://xatreus.github.io/abdul-rahman-portfolio/">portfolio website</a>.
+- **Web:** SQL injection, XSS, SSTI, IDOR, path traversal and file-upload vulnerabilities.
+- **Server & API:** SSRF, OS command injection, API testing, authentication and authorization.
+- **AI security:** Prompt injection, tool misuse and LLM application attack surfaces.
+- **Foundations:** Input validation and OWASP security concepts.
 
 </details>
 
@@ -171,17 +149,9 @@ For more detail on my technical skills and practical work, see the <a href="http
 
 ---
 
-## 🎯 What I'm Exploring Next
-
-- Building dependable CI/CD workflows and automated quality gates.
-- Deepening practical Kubernetes, Terraform and cloud deployment skills.
-- Improving observability, monitoring and production troubleshooting.
-- Building AI applications and agent workflows on strong backend foundations.
-
 ## 🤝 Connect
 
 <div align="center">
-  <a href="https://xatreus.github.io/abdul-rahman-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Explore_my_work-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a>
   <a href="https://www.linkedin.com/in/abdul-rahman-221128258"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" /></a>
   <a href="https://github.com/Xatreus"><img src="https://img.shields.io/badge/GitHub-Follow_my_work-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" /></a>
   <br/><br/>
